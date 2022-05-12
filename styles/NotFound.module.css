@@ -1,0 +1,11 @@
+.notFound {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.notFound a {
+    color: var(--btn-bg-color);
+    text-decoration: underline;
+}

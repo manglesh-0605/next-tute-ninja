@@ -1,0 +1,14 @@
+.item {}
+
+.text {
+    background-color: #fff;
+    width: 640px;
+    padding: 10px;
+    border-left: 7px solid transparent;
+    transition: all 0.2s ease-out;
+
+}
+.text:hover{
+    border-color: var(--btn-bg-color)
+    
+}
